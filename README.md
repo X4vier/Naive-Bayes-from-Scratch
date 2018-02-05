@@ -1,8 +1,8 @@
-# My Machine Learning Assignment (April 2017)
+# Naieve Bayes from Scratch
 
 
 
-This folder contains the jupyter notebook I recently sumbitted for a university assignment, along with a relevant data file. 
+This folder contains the jupyter notebook I submitted for a university assignment in April 2017, along with a relevant data file. 
 
 
 
